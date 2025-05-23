@@ -3,7 +3,7 @@
 
 👋 Welcome, curious minds and code wizards!
 
-This repo is your backstage pass to the workshop magic ✨. We’re diving into the world of **LangChain**, **LLMs**, and **intelligent agents** – and you’ll walk out with your **own working chatbot**. Yes, one that *thinks*, *reasons*, and *uses tools like a boss* 🤖💡.
+This repo is your backstage pass to the workshop magic ✨. We’re diving into the world of **LangChain**, **LLMs**, and **intelligent agents** – one that *thinks*, *reasons*, and *uses tools like a boss* 🤖💡.
 
 ---
 
